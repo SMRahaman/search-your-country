@@ -1,0 +1,9 @@
+.display{
+
+    padding:50px 50px;
+    width:500px;
+    margin:30px auto;
+    border-radius: 15px;
+    background-color:gray;
+    color:white;
+}
